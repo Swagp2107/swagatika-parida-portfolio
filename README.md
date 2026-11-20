@@ -31,10 +31,13 @@ AI Tools	GitHub Copilot, Devin
 IDE	VS Code
 Methodologies	Agile, Scrum, Shift-Left, Risk-Based Testing
 Languages	English, Hindi
-💼 Experience
-Test Engineering Manager — Comcast Technology Solutions
 
-November 2019 – Present · Philadelphia, PA
+
+
+
+💼 Experience
+**Test Engineering Manager — Comcast Technology Solutions
+November 2019 – Present · Philadelphia, PA**
 
 Direct test strategy across agile delivery teams, aligning automation coverage with release readiness criteria for the streaming app on Roku, Fire TV, Web, Chromecast, Apple tvOS, Android, iOS, Samsung and LG.
 Lead QA engineers in defect triage, root-cause analysis and risk-based testing for streaming platform releases.
@@ -44,31 +47,33 @@ Track release health through dashboards and alerts to catch regressions early an
 Partner with product and development teams to define acceptance criteria and verify technical requirements.
 Mentor engineers on test design, scripting practices and issue escalation.
 Manage cross-functional teams, with onshore, offshore and contractor resources.
-Senior Associate — Cognizant Technology Solutions
 
-June 2016 – November 2019 · Philadelphia, PA
+
+**Senior Associate — Cognizant Technology Solutions
+June 2016 – November 2019 · Philadelphia, PA**
 
 Directed project- and service-level testing, managing all QA activities and deliverables.
 Executed system, regression and post-production testing to verify release readiness.
 Validated video streaming, analytics (Localytics), telemetry, localization and accessibility across Android and iOS devices.
-Test Lead — Wipro Technologies
 
-June 2010 – June 2016 · Waukesha, WI
+**Test Lead — Wipro Technologies
+June 2010 – June 2016 · Waukesha, WI**
 
 Built deep functional expertise in the retail and telecom domains.
 Tested POS and order management systems, including Sterling OMS.
 Validated the pricing system, cash office workflows, and Verifone semi-integrated and EMV-enabled pinpads.
 Ran mobile testing across native apps, webstore, T.com, M.com and Endless Aisle.
-Test Engineer — Wipro Technologies
 
-July 2009 – July 2010 · Pune, India
+
+**Test Engineer — Wipro Technologies
+July 2009 – July 2010 · Pune, India**
 
 Executed functional and regression testing and tracked defects to closure in Quality Center.
 Tested network equipment from ECI and Huawei, and service provisioning and billing for Mobily.
 Validated provisioning and plan-and-build workflows for BT Openreach NGA, and billing accuracy in Atlantis and Oracle BRM.
-Technical Associate — Tech Mahindra
 
-July 2006 – June 2009 · Pune, India
+**Technical Associate — Tech Mahindra
+July 2006 – June 2009 · Pune, India**
 
 Tested LS-OMS (Lightspeed order management for CSRs in Clarify), covering order capture, provisioning and billing updates.
 Designed and executed test cases and coordinated cross-team communication during test cycles.
